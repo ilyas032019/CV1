@@ -1,6 +1,9 @@
 
   body{
+    margin: 0;
     background-color: #EAF6F6;
+    font-family: 'Merriweather',serif;
+
       }
 
       hr{
@@ -13,8 +16,18 @@
 
       h1{
         color: #66BFBF;
+        margin-top:0;
+        font-family: 'Sacramento', cursive;
       }
 
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
       h3{
         color: #1f6650;
+        font-family: 'Montserrat', sans-serif;
+      }
+
+      .pi{
+        text-decoration: underline;
       }
